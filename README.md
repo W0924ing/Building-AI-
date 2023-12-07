@@ -5,12 +5,6 @@ Size of this preview: 600 × 600 pixels. Other resolutions: 240 × 240 pixels | 
 
 Original file ‎(2,304 × 2,304 pixels, file size: 1.58 MB, MIME type: image/jpeg);
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
-
-(https://developer.twitter.com/en/docs)
-
-
-
 | Camera manufacturer|Canon |
 | Camera model	      |Canon EOS 350D                         DIGITAL |
 | Author	            |Umberto |      
